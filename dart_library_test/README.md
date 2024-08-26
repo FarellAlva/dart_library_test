@@ -9,7 +9,7 @@ For general information about developing packages, see the Dart guide for
 [creating packages](https://dart.dev/guides/libraries/create-library-packages)
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+--> 
 
 ## Step by step command
 
@@ -92,19 +92,7 @@ Template ini mirip dengan web tetapi lebih sederhana. Sangat cocok untuk proyek 
 ```dart
 dart create --template=web-simple my_simple_web_app
 ```
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
-
+<details>
+  <summary>Link</summary>
+ https://docs.google.com/presentation/d/14alNH1UvC5wlNdY4p6VS3pL8lZMvobU3fr-NqAwaepk/edit?usp=sharing (note: slide 40 to make apk file)
+</details>
